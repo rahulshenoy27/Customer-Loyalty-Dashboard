@@ -27,3 +27,6 @@ This project includes:
 - Customer-Loyalty-Program-Dashboard.pbix
 - Customer-Loyalty-Program-Screenshot.pdf
 - README.md
+
+## Author
+Rahul Shenoy Ranjal
