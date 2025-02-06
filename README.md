@@ -1,7 +1,7 @@
 # Customer-Loyalty-Dashboard
 
 ## Overview
-This project visualizes customer loyalty data to uncover patterns in customer retention, spending behaviour, and engagement levels. The dataset consists of customer transactions, purchase frequency, and loyalty scores, visualized using Power BI
+This project visualizes customer loyalty data to uncover patterns in customer lifetime value, revenue, and sales trend over time. The dataset consists of customer transactions, purchase frequency, and loyalty scores, visualized using Power BI
 
 ## Data Source
 Dataset: Customer-Loyalty-Program_Dataset.csv
